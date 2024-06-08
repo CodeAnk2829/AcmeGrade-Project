@@ -22,7 +22,7 @@
 
     // show message when cart is empty
     if ($size == 0) {
-        echo "<div class='d-flex justify-content-center align-items-center text-center flex-wrap mt-5'>
+        echo "<div class='d-flex justify-content-center align-items-center text-center flex-wrap' style='margin-top: 100px;'>
                 <div>
                     <h3 class='text-dark'>Hey, it feels so light</h3>
                     <h5 class='text-secondary'>There is nothing in your cart. Let's add some items.</h5>
